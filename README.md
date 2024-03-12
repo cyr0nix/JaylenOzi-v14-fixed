@@ -4,6 +4,12 @@ Discord'da public sunucularda kullanabileceğiniz zamanının en iyi botçuları
 
 SS vs atmıyacağım kurup kendiniz görün full fixed. İyi Türemeler dilerim yeni botçular.
 
-.kur komutu ile kurulum yapabilirsiniz ama bence uğraşmaya deymez gidip sunucuayar.json dosyasını doldurun derim
+.kur komutu ile kurulum yapabilirsiniz ama bence uğraşmaya deymez gidip sunucuayar.json dosyasını doldurun derim.
 
-ilk defa başlıyacaklar için config.json dosyasını doldurup `npm i` yazmayı unutmayın
+ilk defa başlıyacaklar için config.json dosyasını doldurup `npm i` yazmayı unutmayın.
+
+# Benimle iletişime geçmek isterseniz yada destek olmak isterseniz ;
+
+https://dcsv.me/
+https://discord.gg/dcsv/
+https://discord.gg/safecode/
