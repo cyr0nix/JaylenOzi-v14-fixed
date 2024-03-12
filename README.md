@@ -20,4 +20,6 @@ https://discord.gg/safecode/
 
 https://discord.gg/cyromacai/
 
+https://discord.gg/vernia/
+
 Saygılar `DCSV.ME ADMIN`
