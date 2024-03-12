@@ -17,3 +17,5 @@ https://discord.gg/dcsv/
 https://discord.gg/safecode/
 
 https://discord.gg/cyromacai/
+
+Saygılar `DCSV.ME ADMIN`
