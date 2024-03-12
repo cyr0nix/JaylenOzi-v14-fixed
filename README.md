@@ -10,6 +10,8 @@ ilk defa başlıyacaklar için config.json dosyasını doldurup `npm i` yazmayı
 
 # Benimle iletişime geçmek isterseniz yada destek olmak isterseniz ;
 
+Beğendiyseniz, işinizi gördüysem bi yıldızın ve forkunuzu alırım.
+
 https://dcsv.me/
 
 https://discord.gg/dcsv/
