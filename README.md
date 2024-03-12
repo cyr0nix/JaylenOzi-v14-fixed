@@ -11,5 +11,7 @@ ilk defa başlıyacaklar için config.json dosyasını doldurup `npm i` yazmayı
 # Benimle iletişime geçmek isterseniz yada destek olmak isterseniz ;
 
 https://dcsv.me/
+
 https://discord.gg/dcsv/
+
 https://discord.gg/safecode/
