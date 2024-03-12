@@ -3,3 +3,7 @@
 Discord'da public sunucularda kullanabileceğiniz zamanının en iyi botçularından biri olan JaylenOzi'nin kullandığı boltarın v14'e güncellenmiş halidiri. Ravgar adlı şahısın eksik bir şekilde bıraktığı altyapı dilediğiniz gibi kullanın.
 
 SS vs atmıyacağım kurup kendiniz görün full fixed. İyi Türemeler dilerim yeni botçular.
+
+.kur komutu ile kurulum yapabilirsiniz ama bence uğraşmaya deymez gidip sunucuayar.json dosyasını doldurun derim
+
+ilk defa başlıyacaklar için config.json dosyasını doldurup `npm i` yazmayı unutmayın
