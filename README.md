@@ -8,6 +8,10 @@ SS vs atmıyacağım kurup kendiniz görün full fixed. İyi Türemeler dilerim 
 
 ilk defa başlıyacaklar için config.json dosyasını doldurup `npm i` yazmayı unutmayın.
 
+# Update:
+
+URL VE TAÇ için token girilmesi zorunludur! aksi takdirde guard1 çalışmaz sürekli error atar.
+
 # Benimle iletişime geçmek isterseniz yada destek olmak isterseniz ;
 
 Beğendiyseniz, işinizi gördüysem bi yıldızın ve forkunuzu alırım.
